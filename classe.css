@@ -1,0 +1,15 @@
+#quizz {
+  background-color: powderblue;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.pergunta {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#resultado {
+  font-size: 20px;
+  font-weight: bold;
+}
